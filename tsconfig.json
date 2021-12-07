@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "esModuleInterop": true,
+    "strict": false,
+    "paths": {
+      "@/*": ["./src/renderer/src/*"]
+    }
+  },
+  "include": [
+    "./src/**/*"
+, "dist/build"  ],
+  "exclude": [
+    "node_modules",
+    "dist"
+  ]
+}

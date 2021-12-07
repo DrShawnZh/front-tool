@@ -1,0 +1,11 @@
+{
+  "appId": "com.font-tool.app",
+  "files": ["dist/"],
+  "asar": false,
+  "dmg": {
+    "icon": "tool.png"
+  },
+  "directories": {
+    "output": "release"
+  }
+}

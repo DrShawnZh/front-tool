@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "projectName": "招聘",
+      "projectPath": "/Users/zhangxiang/company/mobile-offer",
+      "local": "1",
+      "install": "2",
+      "run": "2",
+      "fileName": "mobile-offer",
+      "id": "5A_zHHoGDe"
+    }
+  ],
+  "settings": {
+    "projectDir": "/Users/zhangxiang/projects"
+  }
+}
